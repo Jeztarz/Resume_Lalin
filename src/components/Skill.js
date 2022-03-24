@@ -23,24 +23,10 @@ const Skill = () => {
           </div>
         </div>
       }
-      {Familiar?.length > 0 &&
-        <div className='pl-3'>
-          <h2 className='text-xl'> Familiar </h2>
-        <div className='my-7 grid gap-5 grid-cols-3 md:grid-cols-6 content-center'>
-          {Familiar.map((x, index) =>
-            <div className='flex flex-col items-center' tabIndex='0' role='img' aria-label={x.skill} key={index}>
-              <img src={x.logo} alt='' loading='lazy' className='w-16 mb-1' width='64px' height='64px' />
-              {x.skill}
-            </div>
-          )}
-
-
-        </div>
-
-        </div>
-      }
+     
+     
       
-      {/* </div> */}
+       
       </section>
     </div>
   );
