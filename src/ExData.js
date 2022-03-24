@@ -37,7 +37,7 @@ const workHistory = [
         workDes: [
             'Go out for an interview and find information in the field. Write newsletters for newspapers and websites.',
         ],
-        exposer: ["Adobe Premier", "Adobe Lightroom", "Adobe Photoshop"],
+        exposer: ["Media Ethics"],
         link: 'https://www.facebook.com/Homiesch',
     },
 ];
