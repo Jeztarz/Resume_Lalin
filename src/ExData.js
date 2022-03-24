@@ -1,27 +1,45 @@
 const workHistory = [
     {
-        companyName : 'Company Name 1',
-        role: 'SDE Intern',
-        duration: "July'21 – Oct'21",
+        companyName : 'Freelance',
+        role: 'UI DESIGN ASSISTANT',
+        duration: "2018 – 2021",
         workDes: [
-            'Build So and so on for xyz.',
-            'Designed and developed REST API’s to integrate user interaction with Twitter and Linkedin on server.',
+            'UI design for mobile app',
+            'I help my brother`s extra job',
         ],
-        exposer: ["React", "Redux Saga ", "NodeJs", "ExpressJs", "MongoDB", "Heroku", "Twitter API’s", "LinkedIn API"] ,
-        link: 'https://google.com/',
+        exposer: ["Figma"] ,
+        
     },
     {
-        companyName: 'Company Name 2',
-        role: 'SDE Intern',
-        duration: "Mar'21 – Apr'21",
+        companyName: 'Freelance',
+        role: 'VIDEO EDITOR ASSISTANT',
+        duration: "2018 – 2021",
         workDes: [
-            'Developed full stack B2B admin portal web application using Reactjs,Mongodb, Nodejs.',
-            'Designed and developed REST APIs to increase user interaction on the server.',
+            'I`m a video editor for a YouTuber and also has a Homies production house.',
+            'I`m partnership with friends hiring for photography and videography.',
         ],
-        exposer: ["React ", "NodeJs", "MongoDB" , "ContextAPI"],
-        link: 'https://google.com/',
+        exposer: ["Adobe Premier", "Adobe Lightroom", "Adobe Photoshop"],
+        link: 'https://www.facebook.com/Homiesch',
     },
-    
+    {
+        companyName: 'Part-Time',
+        role: 'SERVICE STAFF',
+        duration: "2016 - 2022",
+        workDes: [
+            'I used to be a part-time employee at Dunkin`s Donut, Aunties Ann, MK and Milk Land',
+        ],
+        exposer: ["Service"],
+    },
+    {
+        companyName: 'Kom Chad Luek, Thailand',
+        role: 'REPORTER INTERN',
+        duration: "April 2017 - June 2017",
+        workDes: [
+            'Go out for an interview and find information in the field. Write newsletters for newspapers and websites.',
+        ],
+        exposer: ["Adobe Premier", "Adobe Lightroom", "Adobe Photoshop"],
+        link: 'https://www.facebook.com/Homiesch',
+    },
 ];
 
 export default workHistory;

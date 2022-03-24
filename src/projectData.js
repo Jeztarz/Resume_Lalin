@@ -1,28 +1,21 @@
 const projects = [
   {
-    title: 'React Simple Portfolio',
-    image: './images/portfolio2.png',
-    description: "Make Portfolio template for developer!!",
-    tools: ['ReactJs', 'Tailwind css'],
-    github: 'https://github.com/codewithvk/React-simple-portfolio',
-    link: 'https://github.com/codewithvk/React-simple-portfolio',
+    title: 'Jammmimg',
+    image: '#',
+    description: "Developed follow Codecademy Design for users to search for music and add it to Spotify playlist. Using > React.JS, NPM, Netlify and Spotify API",
+    tools: ['ReactJs', 'JavaScript'],
+    github: 'https://github.com/Jeztarz/jsd-jamming-assessment',
+    link: 'https://jeztar-jamming.netlify.app',
   },
   {
-    title: 'React Simple Portfolio',
-    image: './images/portfolio2.png',
-    description: "Make Portfolio template for developer!!",
-    tools: ['ReactJs', 'Tailwind css'],
-    github: 'https://github.com/codewithvk/React-simple-portfolio',
-    link: 'https://github.com/codewithvk/React-simple-portfolio',
+    title: 'Activity App',
+    image: '#',
+    description: 'App for record your activity.',
+    tools: ['JavaScript', 'React', 'Node.js'],
+    github: 'https://github.com/Jeztarz/final-project-running-app',
+    link: 'https://github.com/Jeztarz/final-project-running-app',
   },
-  {
-    title: 'React Simple Portfolio',
-    image: './images/portfolio2.png',
-    description: "Make Portfolio template for developer!!",
-    tools: ['ReactJs', 'Tailwind css'],
-    github: 'https://github.com/codewithvk/React-simple-portfolio',
-    link: 'https://github.com/codewithvk/React-simple-portfolio',
-  },
+  
   
 ];
 
