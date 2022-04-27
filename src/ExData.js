@@ -2,7 +2,7 @@ const workHistory = [
     {
         companyName : 'Freelance',
         role: 'UI DESIGN ASSISTANT',
-        duration: "2018 – 2021",
+        duration: "2021",
         workDes: [
             'UI design for mobile app',
             'I help my brother`s extra job',
