@@ -9,7 +9,7 @@ const projects = [
   },
   {
     title: 'Activity App',
-    image: './images/running.png',
+    image: './images/finalProject.jpg',
     description: 'App for record your activity.',
     tools: ['JavaScript', 'React', 'Node.js'],
     github: 'https://github.com/Jeztarz/final-project-running-app',
